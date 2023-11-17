@@ -31,10 +31,3 @@ The game is developed using Kaboom.js and JavaScript. It includes features like 
 ## How to Play
 
 To play the game, simply run the game file in your preferred web browser that supports Kaboom.js. Use the provided controls to navigate the player character through the platforms and enjoy the dynamic day-night cycle and weather effects.
-
-## Getting Started
-
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/bestcoolestp/JS_Kaboom.js_modified_PlatFormer.git
